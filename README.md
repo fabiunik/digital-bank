@@ -1,13 +1,13 @@
-#Challenge Creating Digital Bank
-###BoootCamp DIO 
+# Challenge Creating Digital Bank
+### BoootCamp DIO 
 
-####Technology: 
+#### Technology: 
 - Java Language
 
-####Learning Objectives
-Develop intermediate level skills in Java using OOP : Classes, Methods, Collections, Inheritance, Encapsulation,Access Modifiers, Polymorphism, 
+#### Learning Objectives
+- Develop intermediate level skills in Java using OOP : Classes, Methods, Collections, Inheritance, Encapsulation,Access Modifiers, Polymorphism, 
 
-####Future implementations:
+#### Future implementations:
  - add transactions (fees, loans, etc)
  - add menu
  - improve the code use advanced Java features 
